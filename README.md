@@ -1,6 +1,8 @@
 # CarHead
 Проект радиоуправляемой машины на Arduino c помощью жестов
 
-![alt text](https://github.com/STARK73/CarHead/image/Car.png?raw=true)
+Схема подключения компонентов машины
+![Схема подключения компонентов машины](https://github.com/STARK73/CarHead/blob/main/image/Car.png)
 
-![alt text](https://github.com/STARK73/CarHead/image/Glove.png?raw=true)
+Схема подключения компонентов перчатки
+![Схема подключения компонентов перчатки](https://github.com/STARK73/CarHead/blob/main/image/Glove.png?raw=true)
